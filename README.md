@@ -9,5 +9,5 @@
 - BlueMuse
 - VsCode (You could technically use the python IDLE, but this is just much easier. Highly recommend this or any other established IDE you prefer.)
 
-### Here is the medium article I made for this article: 
+### Here is the medium article I made for this article: https://medium.com/@shandilyaabhijay/blink-clench-controlling-computer-volume-with-only-my-brain-232b1971d286
 
